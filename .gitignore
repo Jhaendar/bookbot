@@ -1,0 +1,4 @@
+books/
+.mypy_cache
+.venv
+.vscode
